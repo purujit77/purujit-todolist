@@ -1,0 +1,14 @@
+h2{
+    color: white;
+}
+.row{
+    justify-content: center;
+    column-gap: 10px;
+}
+/* .items{
+    background-color: aqua;
+} */
+.display{
+    display: grid;
+    width: 40vw;
+}
